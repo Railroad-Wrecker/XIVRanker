@@ -1,0 +1,227 @@
+[
+  {
+    "name": "A Realm Reborn - The New Beginning!",
+    "id": "arr",
+    "image": "RealmReborn_Image",
+    "link": "https://na.finalfantasyxiv.com/lodestone/special/patchnote_log/",
+    "review_point": 8.5,
+    "short_description": "The relaunch of Final Fantasy XIV, featuring revamped gameplay and story.",
+    "full_description": "A Realm Reborn is the rebirth of the original Final Fantasy XIV, featuring a complete overhaul of the game's systems and story. It introduces players to the reimagined world of Eorzea with a fresh narrative and new gameplay mechanics."
+  },
+  {
+    "name": "Patch 2.1 - A Realm Awoken",
+    "id": "patch-2-1",
+    "image": "Patch_2_1_Image",
+    "link": "https://na.finalfantasyxiv.com/lodestone/special/patchnote_log/",
+    "review_point": 8.0,
+    "short_description": "The first major patch for A Realm Reborn, adding new content and features.",
+    "full_description": "Patch 2.1 introduces new content including the Crystal Tower raid and various quality-of-life improvements. It marks the beginning of additional content updates for A Realm Reborn."
+  },
+  {
+    "name": "Patch 2.2 - Through the Maelstrom",
+    "id": "patch-2-2",
+    "image": "Patch_2_2_Image",
+    "link": "https://na.finalfantasyxiv.com/lodestone/special/patchnote_log/",
+    "review_point": 8.2,
+    "short_description": "Adds new dungeons and story content to A Realm Reborn.",
+    "full_description": "Patch 2.2 continues to expand A Realm Reborn with new dungeons, storylines, and additional features, enriching the gameplay experience and narrative."
+  },
+  {
+    "name": "Patch 2.3 - Defenders of Eorzea",
+    "id": "patch-2-3",
+    "image": "Patch_2_3_Image",
+    "link": "https://na.finalfantasyxiv.com/lodestone/special/patchnote_log/",
+    "review_point": 8.1,
+    "short_description": "Introduces new trials and story content.",
+    "full_description": "Patch 2.3 features new trials, dungeons, and story content, further developing the world and storyline of A Realm Reborn."
+  },
+  {
+    "name": "Patch 2.4 - Dreams of Ice",
+    "id": "patch-2-4",
+    "image": "Patch_2_4_Image",
+    "link": "https://na.finalfantasyxiv.com/lodestone/special/patchnote_log/",
+    "review_point": 8.3,
+    "short_description": "Expands the game with new content and story developments.",
+    "full_description": "Patch 2.4 brings new content and story developments, including the addition of the new dungeon and trial, enhancing the A Realm Reborn experience."
+  },
+  {
+    "name": "Patch 2.5 - Before the Fall",
+    "id": "patch-2-5",
+    "image": "Patch_2_5_Image",
+    "link": "https://na.finalfantasyxiv.com/lodestone/special/patchnote_log/",
+    "review_point": 8.4,
+    "short_description": "The final patch before Heavensward, setting up major storylines.",
+    "full_description": "Patch 2.5 concludes the storylines of A Realm Reborn and sets the stage for the Heavensward expansion with significant content updates and story developments."
+  },
+  {
+    "name": "Heavensward - The Battle Rages On!",
+    "id": "heavensward",
+    "image": "Heavensward_Image",
+    "link": "https://na.finalfantasyxiv.com/lodestone/special/patchnote_log/",
+    "review_point": 9.0,
+    "short_description": "The first major expansion, featuring new regions and a dark storyline.",
+    "full_description": "Heavensward expands the world of Final Fantasy XIV with a new region and an engaging story centered around the conflict between Ishgard and the Dravanian Horde. It introduces new jobs and dungeons, deepening the overall experience."
+  },
+  {
+    "name": "Patch 3.1 - As Goes Light, So Goes Darkness",
+    "id": "patch-3-1",
+    "image": "Patch_3_1_Image",
+    "link": "https://na.finalfantasyxiv.com/lodestone/special/patchnote_log/",
+    "review_point": 8.6,
+    "short_description": "Adds new content and features to Heavensward.",
+    "full_description": "Patch 3.1 introduces new content and updates for Heavensward, including additional story quests, dungeons, and other gameplay enhancements."
+  },
+  {
+    "name": "Patch 3.2 - The Gears of Change",
+    "id": "patch-3-2",
+    "image": "Patch_3_2_Image",
+    "link": "https://na.finalfantasyxiv.com/lodestone/special/patchnote_log/",
+    "review_point": 8.7,
+    "short_description": "Continues the Heavensward story with new features.",
+    "full_description": "Patch 3.2 continues the storyline of Heavensward with new content and features, including new dungeons, trials, and story quests."
+  },
+  {
+    "name": "Patch 3.3 - Revenge of the Horde",
+    "id": "patch-3-3",
+    "image": "Patch_3_3_Image",
+    "link": "https://na.finalfantasyxiv.com/lodestone/special/patchnote_log/",
+    "review_point": 8.8,
+    "short_description": "Expands the Heavensward experience with additional content.",
+    "full_description": "Patch 3.3 expands Heavensward with new content, including additional storylines, dungeons, and trials, enhancing the overall experience."
+  },
+  {
+    "name": "Patch 3.4 - Soul Surrender",
+    "id": "patch-3-4",
+    "image": "Patch_3_4_Image",
+    "link": "https://na.finalfantasyxiv.com/lodestone/special/patchnote_log/",
+    "review_point": 8.5,
+    "short_description": "Adds more story content and features.",
+    "full_description": "Patch 3.4 introduces new content and story developments, continuing the Heavensward narrative with new dungeons, trials, and quests."
+  },
+  {
+    "name": "Patch 3.5 - The Far Edge of Fate",
+    "id": "patch-3-5",
+    "image": "Patch_3_5_Image",
+    "link": "https://na.finalfantasyxiv.com/lodestone/special/patchnote_log/",
+    "review_point": 8.9,
+    "short_description": "The final patch before Stormblood, concluding major storylines.",
+    "full_description": "Patch 3.5 concludes the Heavensward expansion with significant updates and content, preparing players for the upcoming Stormblood expansion."
+  },
+  {
+    "name": "Stormblood - The Fight for Freedom!",
+    "id": "stormblood",
+    "image": "StormBlood_Image",
+    "link": "https://na.finalfantasyxiv.com/lodestone/special/patchnote_log/",
+    "review_point": 8.8,
+    "short_description": "Focuses on the liberation of new regions with expanded content.",
+    "full_description": "Stormblood brings players to Ala Mhigo and Doma, focusing on the fight against Garlean oppression. It introduces new jobs, areas, and storylines, expanding the Final Fantasy XIV universe."
+  },
+  {
+    "name": "Patch 4.1 - The Legend Returns",
+    "id": "patch-4-1",
+    "image": "Patch_4_1_Image",
+    "link": "https://na.finalfantasyxiv.com/lodestone/special/patchnote_log/",
+    "review_point": 8.6,
+    "short_description": "Adds new content and story elements to Stormblood.",
+    "full_description": "Patch 4.1 continues the Stormblood expansion with new content, including additional story quests, dungeons, and features."
+  },
+  {
+    "name": "Patch 4.2 - The Legend Returns",
+    "id": "patch-4-2",
+    "image": "Patch_4_2_Image",
+    "link": "https://na.finalfantasyxiv.com/lodestone/special/patchnote_log/",
+    "review_point": 8.7,
+    "short_description": "Continues the Stormblood storyline with new updates.",
+    "full_description": "Patch 4.2 adds more content and story developments to Stormblood, including new dungeons, trials, and features."
+  },
+  {
+    "name": "Patch 4.3 - Under the Moonlight",
+    "id": "patch-4-3",
+    "image": "Patch_4_3_Image",
+    "link": "https://na.finalfantasyxiv.com/lodestone/special/patchnote_log/",
+    "review_point": 8.8,
+    "short_description": "Expands the game with new content and story.",
+    "full_description": "Patch 4.3 continues to build on the Stormblood expansion, introducing new storylines, dungeons, and gameplay features."
+  },
+  {
+    "name": "Patch 4.4 - Prelude in Violet",
+    "id": "patch-4-4",
+    "image": "Patch_4_4_Image",
+    "link": "https://na.finalfantasyxiv.com/lodestone/special/patchnote_log/",
+    "review_point": 8.9,
+    "short_description": "Adds more content and continues the storyline.",
+    "full_description": "Patch 4.4 continues the Stormblood narrative with new content, including dungeons, trials, and story quests, enriching the game's experience."
+  },
+  {
+    "name": "Patch 4.5 - A Requiem for Heroes",
+    "id": "patch-4-5",
+    "image": "Patch_4_5_Image",
+    "link": "https://na.finalfantasyxiv.com/lodestone/special/patchnote_log/",
+    "review_point": 9.0,
+    "short_description": "The final patch before Shadowbringers, concluding major story arcs.",
+    "full_description": "Patch 4.5 wraps up the Stormblood storyline and sets the stage for the upcoming Shadowbringers expansion, offering significant updates and content."
+  },
+  {
+    "name": "Shadowbringers - A Darkness Unleashed!",
+    "id": "shadowbringers",
+    "image": "ShadowBringers_Image",
+    "link": "https://na.finalfantasyxiv.com/lodestone/special/patchnote_log/",
+    "review_point": 9.5,
+    "short_description": "Takes players to a new world with an intense storyline.",
+    "full_description": "Shadowbringers transports players to the First, a new world filled with light and darkness. It offers a compelling story, new jobs, and expansive content, making it one of the most acclaimed expansions."
+  },
+  {
+    "name": "Patch 5.1 - Vows of Virtue, Deeds of Cruelty",
+    "id": "patch-5-1",
+    "image": "Patch_5_1_Image",
+    "link": "https://na.finalfantasyxiv.com/lodestone/special/patchnote_log/",
+    "review_point": 9.1,
+    "short_description": "Adds new content and story elements to Shadowbringers.",
+    "full_description": "Patch 5.1 continues the Shadowbringers storyline with new content, including additional quests, dungeons, and features."
+  },
+  {
+    "name": "Patch 5.2 - Echoes of a Fallen Star",
+    "id": "patch-5-2",
+    "image": "Patch_5_2_Image",
+    "link": "https://na.finalfantasyxiv.com/lodestone/special/patchnote_log/",
+    "review_point": 9.2,
+    "short_description": "Introduces more content and continues the story.",
+    "full_description": "Patch 5.2 adds new content and story developments to Shadowbringers, including new dungeons, trials, and features."
+  },
+  {
+    "name": "Patch 5.3 - Reflections in Crystal",
+    "id": "patch-5-3",
+    "image": "Patch_5_3_Image",
+    "link": "https://na.finalfantasyxiv.com/lodestone/special/patchnote_log/",
+    "review_point": 9.3,
+    "short_description": "Expands the Shadowbringers experience with new features.",
+    "full_description": "Patch 5.3 enhances the Shadowbringers experience with new content and story elements, including additional quests and dungeons."
+  },
+  {
+    "name": "Patch 5.4 - Futures Rewritten",
+    "id": "patch-5-4",
+    "image": "Patch_5_4_Image",
+    "link": "https://na.finalfantasyxiv.com/lodestone/special/patchnote_log/",
+    "review_point": 9.4,
+    "short_description": "Continues the storyline with new content and updates.",
+    "full_description": "Patch 5.4 continues the Shadowbringers narrative with new content, including dungeons, trials, and story quests, further enhancing the gameplay experience."
+  },
+  {
+    "name": "Patch 5.5 - Death Unto Dawn",
+    "id": "patch-5-5",
+    "image": "Patch_5_5_Image",
+    "link": "https://na.finalfantasyxiv.com/lodestone/special/patchnote_log/",
+    "review_point": 9.5,
+    "short_description": "The final patch before Endwalker, concluding major storylines.",
+    "full_description": "Patch 5.5 wraps up the Shadowbringers storyline and sets the stage for the upcoming Endwalker expansion, offering significant updates and content."
+  },
+  {
+    "name": "Endwalker - The Journey's End!",
+    "id": "endwalker",
+    "image": "EndWalker_Image",
+    "link": "https://na.finalfantasyxiv.com/lodestone/special/patchnote_log/",
+    "review_point": 9.6,
+    "short_description": "Concludes the story arc with new regions and an epic narrative.",
+    "full_description": "Endwalker brings the current story arc to a dramatic conclusion, introducing new regions, jobs, and an expansive narrative. It offers a rich and immersive experience for players."
+  }
+]
